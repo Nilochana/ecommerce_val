@@ -1,0 +1,65 @@
+<fieldset class="col2">
+                    <legend>New</legend>
+                    <img src="Images/Canon_Camera.png" class="img1" />
+                    <h3>$636.21<strike>$642.45</strike></h3>
+                    <h4>Canon EOS 200D Digital SLR Camera with EF-S 18 - 55 mm f/4-5.6 IS</h4>
+                    <p>24.2 megapixel CMOS sensor for photos rich with detail and colour and look straight from the camera. Continuous shooting at up to 5 FTP...</p>
+                </fieldset>
+
+                <fieldset class="col3" >
+                    <legend>New</legend>
+                    <img src="Images/38_Printers.png" class="img1" />
+                    <h3>$49.41<strike>$50.31</strike></h3>
+                    <h4>HP Envy 4527 All-in-One Printer, Instant Ink Compatible with 4 Months Trial</h4>
+                    <p>Print, scan or copy quickly and easily with the 2.2 inch (5.5 cm) display - simply touch and go...</p>
+                </fieldset>
+
+
+
+
+
+
+
+
+                <fieldset class="col2">
+                    <legend>Hot Deal</legend>
+                    <img src="Images/434_Refrigerator.png" class="img1" />
+                    <h3>$1042.97<strike>$1049.93</strike></h3>
+                    <h4>Samsung RS7567BHCSL H-series Side by Side Fridge Freezer With Ice And Water Dispenser Inox Steel Doors</h4>
+                    <p>Special delivery for large items is available for this item, when sold and dispatched by Amazon...</p>
+                </fieldset>
+
+                <fieldset class="col3">
+                    <legend>Hot Deal</legend>
+                    <img src="Images/3_Iron.png" class="img1" />
+                    <h3>$28.71<strike>$35.31</strike></h3>
+                    <h4>Russell Hobbs Steamglide Professional 2600 W Steam Iron 21370 - Blue and Black</h4>
+                    <p>2600 watts gives you a fast heat-up time and more power for performance in your battle against the creases...</p>
+                </fieldset>
+            </div>
+
+            <div class="products" style="margin-top:3vh;">
+                <fieldset class="col1">
+                    <legend>Hot Deal</legend>
+                    <img src="Images/83_Spekers.png" class="img1" />
+                    <h3>$120.45<strike>$122.47</strike></h3>
+                    <h4>LG LOUDR LHB645N Home Theatre Speaker System - Black</h4>
+                    <p>5.1Ch 1000W System - Immerse yourself with a 5.1 Ch. surround sound speaker system combined with 1000W of room filling sound, which brings to life all of your favourite movies, music, soaps and shows...</p>
+                </fieldset>
+
+                <fieldset class="col2">
+                    <legend>Hot Deal</legend>
+                    <img src="Images/53_Drone.png" class="img1" />
+                    <h3>$449.12<strike>$559.23</strike></h3>
+                    <h4>DJI CP.PT.000167 Phantom 3 Standard Drone</h4>
+                    <p>stunning 2.7K HD videos and 12 Megapixel photos with the integrated aerial camera. Stable Footage...</p>
+                </fieldset>
+
+                <fieldset class="col3">
+                    <legend>Hot Deal</legend>
+                    <img src="Images/6-video-camera-png-image.png" class="img1" />
+                    <h3>$239.59<strike>$259.81</strike></h3>
+                    <h4>Sony HDR-PJ410 Full HD Camcorder with Built-In Projector (30x Optical Zoom, Optical SteadyShot, Wi-Fi and NFC</h4>
+                    <p>Keep your footage steady and reduce image blur with Sony's Optical SteadyShot...</p>
+                </fieldset>
+            </div>
